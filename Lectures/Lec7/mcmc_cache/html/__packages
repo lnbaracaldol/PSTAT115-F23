@@ -1,0 +1,17 @@
+knitr
+ggplot2
+kableExtra
+patchwork
+coda
+bayesplot
+tidyverse
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+lubridate
+wesanderson
+cmdstanr
